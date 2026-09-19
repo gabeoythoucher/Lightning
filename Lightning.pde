@@ -44,5 +44,5 @@ void draw()
 }
 void mousePressed()
 {
-
+  lightning(startx,starty,endx,endy);
 }
